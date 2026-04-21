@@ -30,7 +30,6 @@ The solution focuses on **power management**, **embedded systems**, and **sustai
 * Motor Driver (L298N) – Controls drum motor
 * Water Pump – Simulates water flow
 * Sensors – Monitor temperature, water level, and cycle timing
-* LCD Display – Displays system status
 * Relay Module – Controls switching of components
 
 ---
